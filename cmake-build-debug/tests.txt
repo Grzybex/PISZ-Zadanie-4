@@ -1,0 +1,166 @@
+T: Tue Jun 21 20:58:40 2022 M: 
+Log file opened
+
+T: Tue Jun 21 20:58:40 2022 M: 
+Test 1 zakończony
+Ilość błędnych bitów w teście 1 : 0
+Bit Error Rate w teście 1 : 0
+Czas obliczeń wyniósł : 0.000000 sec 
+================================================
+
+
+T: Tue Jun 21 20:58:40 2022 M: 
+Log file closed
+
+T: Tue Jun 21 20:58:40 2022 M: 
+Log file opened
+
+T: Tue Jun 21 20:58:40 2022 M: 
+Test 1 zakończony
+Ilość błędnych bitów w teście 1 : 0
+Bit Error Rate w teście 1 : 0
+Czas obliczeń wyniósł : 0.000000 sec 
+================================================
+Test 2 zakończony
+Ilość błędnych bitów w teście 2 : 10
+Bit Error Rate w teście 2 : 0.006188
+Czas obliczeń wyniósł : 0.000000 sec 
+================================================
+
+
+T: Tue Jun 21 20:58:40 2022 M: 
+Log file closed
+
+T: Tue Jun 21 20:58:40 2022 M: 
+Log file opened
+
+T: Tue Jun 21 21:00:58 2022 M: 
+Test 1 zakończony
+Ilość błędnych bitów w teście 1 : 0
+Bit Error Rate w teście 1 : 0
+Czas obliczeń wyniósł : 0.000000 sec 
+================================================
+Test 2 zakończony
+Ilość błędnych bitów w teście 2 : 10
+Bit Error Rate w teście 2 : 0.006188
+Czas obliczeń wyniósł : 0.000000 sec 
+================================================
+Test 3 performed
+Number of bad bits in test 3 files : 800000000
+Bit Error Rate for files in Test 3 : 0.125000
+End of log for test 3
+Time of the calculation was: 22.962999 sec 
+=======================================================
+
+
+T: Tue Jun 21 21:00:58 2022 M: 
+Log file closed
+
+T: Tue Jun 21 21:03:59 2022 M: 
+Log file opened
+
+T: Tue Jun 21 21:03:59 2022 M: 
+Test 1 zakończony
+Ilość błędnych bitów w teście 1 : 0
+Bit Error Rate w teście 1 : 0
+Czas obliczeń wyniósł : 0.000000 sec 
+================================================
+
+
+T: Tue Jun 21 21:03:59 2022 M: 
+Log file closed
+
+T: Tue Jun 21 21:03:59 2022 M: 
+Log file opened
+
+T: Tue Jun 21 21:03:59 2022 M: 
+Test 1 zakończony
+Ilość błędnych bitów w teście 1 : 0
+Bit Error Rate w teście 1 : 0
+Czas obliczeń wyniósł : 0.000000 sec 
+================================================
+Test 2 zakończony
+Ilość błędnych bitów w teście 2 : 10
+Bit Error Rate w teście 2 : 0.006188
+Czas obliczeń wyniósł : 0.000000 sec 
+================================================
+
+
+T: Tue Jun 21 21:03:59 2022 M: 
+Log file closed
+
+T: Tue Jun 21 21:03:59 2022 M: 
+Log file opened
+
+T: Tue Jun 21 21:05:29 2022 M: 
+Log file opened
+
+T: Tue Jun 21 21:05:29 2022 M: 
+Test 1 zakończony
+Ilość błędnych bitów w teście 1 : 0
+Bit Error Rate w teście 1 : 0
+Czas obliczeń wyniósł : 0.000000 sec 
+================================================
+
+
+T: Tue Jun 21 21:05:29 2022 M: 
+Log file closed
+
+T: Tue Jun 21 21:05:29 2022 M: 
+Log file opened
+
+T: Tue Jun 21 21:05:29 2022 M: 
+Test 1 zakończony
+Ilość błędnych bitów w teście 1 : 0
+Bit Error Rate w teście 1 : 0
+Czas obliczeń wyniósł : 0.000000 sec 
+================================================
+Test 2 zakończony
+Ilość błędnych bitów w teście 2 : 10
+Bit Error Rate w teście 2 : 0.006188
+Czas obliczeń wyniósł : 0.000000 sec 
+================================================
+
+
+T: Tue Jun 21 21:05:29 2022 M: 
+Log file closed
+
+T: Tue Jun 21 21:05:29 2022 M: 
+Log file opened
+
+T: Tue Jun 21 21:10:24 2022 M: 
+Log file opened
+
+T: Tue Jun 21 21:10:24 2022 M: 
+Test 1 zakończony
+Ilość błędnych bitów w teście 1 : 0
+Bit Error Rate w teście 1 : 0
+Czas obliczeń wyniósł : 0.000000 sec 
+================================================
+
+
+T: Tue Jun 21 21:10:24 2022 M: 
+Log file closed
+
+T: Tue Jun 21 21:10:24 2022 M: 
+Log file opened
+
+T: Tue Jun 21 21:10:24 2022 M: 
+Test 1 zakończony
+Ilość błędnych bitów w teście 1 : 0
+Bit Error Rate w teście 1 : 0
+Czas obliczeń wyniósł : 0.000000 sec 
+================================================
+Test 2 zakończony
+Ilość błędnych bitów w teście 2 : 10
+Bit Error Rate w teście 2 : 0.006188
+Czas obliczeń wyniósł : 0.000000 sec 
+================================================
+
+
+T: Tue Jun 21 21:10:24 2022 M: 
+Log file closed
+
+T: Tue Jun 21 21:10:24 2022 M: 
+Log file opened
+

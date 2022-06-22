@@ -1,4 +1,4 @@
-
+// Damian Grzybowski
 
 #ifndef BER_KALKULATOR_LOGGER_H
 #define BER_KALKULATOR_LOGGER_H

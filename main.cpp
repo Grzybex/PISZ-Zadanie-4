@@ -1,4 +1,4 @@
-
+// Damian Grzybowski
 #include "dataFiles.h"
 #include "calculateResullt.h"
 int main() {
